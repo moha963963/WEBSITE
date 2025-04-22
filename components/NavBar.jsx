@@ -5,7 +5,7 @@ import { useRouter } from "next/navigation";
 
 const ADMIN_DASHBOARD = "Admin Dashboard";
 const WELCOME_MESSAGE = "Welcome, ";
-const CREATE_NEW_POST_BUTTON = "✨ Create New Post";
+const CREATE_NEW_POST_BUTTON = " Create New Post✨";
 const LOGOUT_BUTTON = "Logout";
 const LOADING_MESSAGE = "Loading...";
 const MAIN_PAGE_LABEL = "Main Page";
